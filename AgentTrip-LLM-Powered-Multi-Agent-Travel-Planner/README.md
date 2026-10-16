@@ -223,17 +223,4 @@ GROQ_MODEL=llama-3.3-70b-versatile
 
 AgentTrip includes an **input guardrail** that validates every user request before processing. Non-travel-related queries are rejected early, saving API calls and preventing misuse.
 
----
-
-## 🤝 Acknowledgements
-
-This project is built upon the [Multi-Agent Travel Planning System](https://github.com/codewithaarohi/Multi_agent_system_part_3-main) series by **codewithaarohi**:
-
-- [Part 1: AI Travel Planning System using LangGraph](https://github.com/codewithaarohi/AI-Travel-Planning-System-using-LangGraph)
-- [Part 2: AI Travel Planning App using LangGraph and MCP](https://github.com/codewithaarohi/AI-Travel-Planning-App-using-LangGraph-and-MCP)
-
----
-
-## 📄 License
-
-This project is for educational purposes. Please respect the original author's licensing terms.
+--
